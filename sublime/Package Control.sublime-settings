@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Emmet",
+		"GitSavvy",
+		"Jade",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"Sublime Tutor",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeREPL",
+		"View In Browser"
+	]
+}
