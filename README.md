@@ -1,5 +1,7 @@
 # Workflow settings
 
+![Preview](https://github.com/karatsuba/workflow-settings/blob/master/example.png)
+
 ### zsh
 1. Put __honukai.zsh-theme__ into the __~/.oh-my-zsh/themes/__ directory
 2. Change the theme variable name to `ZSH_THEME="honukai"` in __~/.zshrc__
