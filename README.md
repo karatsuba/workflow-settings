@@ -20,4 +20,3 @@
 2. Add __Spippets__ folder at __Packages/User__ and put __console.sublime-snippet__ into it
 3. Add [Monokai Theme](https://packagecontrol.io/packages/Theme%20-%20Monokai)
 4. On the next Sublime Text start up Package Control will automatically read the list of packages from this file and install any missing packages
-:simple_smile: 
