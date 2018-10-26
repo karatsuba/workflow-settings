@@ -1,0 +1,12 @@
+{
+    "window.zoomLevel": 1,
+    "gitlens.gitExplorer.location": "scm",
+    "gitlens.historyExplorer.location": "scm",
+    "gitlens.resultsExplorer.location": "scm",
+    "gitlens.codeLens.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.enabled": false,
+    "gitlens.gitExplorer.files.layout": "tree",
+    "workbench.startupEditor": "newUntitledFile"
+}

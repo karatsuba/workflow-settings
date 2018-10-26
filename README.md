@@ -20,3 +20,10 @@
 2. Add __Spippets__ folder at __Packages/User__ and put __console.sublime-snippet__ into it
 3. Add [Monokai Theme](https://packagecontrol.io/packages/Theme%20-%20Monokai)
 4. On the next Sublime Text start up Package Control will automatically read the list of packages from this file and install any missing packages
+
+---
+
+### VS Code
+1. Copy/paste `settings.json`.
+2. Install extentions: __Bracket Pair Colorizer__, __Debugger for Chrome__, __EditorConfig for VS Code__, __ESLint__, __GitLens__
+
